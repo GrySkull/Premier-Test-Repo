@@ -1,0 +1,15 @@
+PackageIdentifier: Microsoft.VisualStudio
+PackageVersion: 2019
+PackageLocale: en-US
+Publisher: Microsoft
+PackageName: Visual Studio Community 2019
+License: MIT
+ShortDescription: ...
+Installers: 
+ - Architecture: x64
+   InstallerType: exe
+   Installmode: Silent
+   InstallerUrl: https://github.com/GrySkull/Premier-Test-Repo/blob/main/vs_community__725702218.1618503035.exe
+   InstallerSha256: 2BD17DFF1D520AD302D59B06F417097061D7E38A7DCAC3099FEF906E9C73A331
+ManifestType: singleton
+ManifestVersion: 1.0.0
